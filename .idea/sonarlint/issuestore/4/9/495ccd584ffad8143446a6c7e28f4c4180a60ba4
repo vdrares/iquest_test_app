@@ -1,0 +1,5 @@
+
+vsquid:S1450"XRemove the "presenter" field and declare it as a local variable in the relevant methods.(®Ý°©8ý©Ï–û-
+Ksquid:S1068"-Remove this unused "presenter" private field.(®Ý°©8ý©Ï–û-
+qsquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(˜É¬ûùÿÿÿÿ8Ø¶¨•û-
+nsquid:CommentedOutCodeLineC"<This block of commented-out lines of code should be removed.(è³Üöþÿÿÿÿ8¼¯¤žû-

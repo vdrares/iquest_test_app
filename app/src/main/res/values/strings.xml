@@ -1,0 +1,21 @@
+<resources>
+  <string name="app_name">iQuest App</string>
+  <string name="search_for_a_repository">Search for a repository…</string>
+  <string name="search">Search</string>
+  <string name="filter_by_language">Filter by language:</string>
+  <string name="search_hit_text">Please search for any github repositories!</string>
+  <string-array name="languages_array">
+    <item>All</item>
+    <item>JavaScript</item>
+    <item>Python</item>
+    <item>Java</item>
+    <item>Kotlin</item>
+    <item>PHP</item>
+    <item>C#</item>
+    <item>C++</item>
+    <item>TypeScript</item>
+    <item>Shell</item>
+    <item>C</item>
+    <item>Ruby</item>
+  </string-array>
+</resources>
